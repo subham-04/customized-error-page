@@ -193,6 +193,12 @@ p {
           animation-delay: 5s;
 }
 
+.square:nth-child(16) {
+  width: 4.7rem;
+  height: 4.7rem;
+  left: 8%;
+}
+
 @-webkit-keyframes boxes {
   0% {
     bottom: -8rem;
