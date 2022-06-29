@@ -80,7 +80,7 @@ p {
 .square:nth-child(1) {
   width: 7rem;
   height: 7rem;
-  left: 8%;
+  right: 90%;
 }
 
 .square:nth-child(2) {
@@ -196,7 +196,7 @@ p {
 .square:nth-child(16) {
   width: 4.7rem;
   height: 4.7rem;
-  left: 8%;
+  right: 98%;
 }
 
 @-webkit-keyframes boxes {
